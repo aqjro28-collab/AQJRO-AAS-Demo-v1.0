@@ -24,7 +24,36 @@ Unreal Engine is additionally supported as a tested environment for loading and 
 
 This release is intended for technical evaluation, workflow demonstration, and exploration of the AAS approach.
 
-## 2. Demo Contents
+## 2. Download the Demo
+
+To download the complete AQJRO AAS Demo v1.0, including the actual USD assets, textures, and other Git LFS files, use **GitHub Desktop**.
+
+### Download Instructions
+
+1. Download and install [GitHub Desktop](https://desktop.github.com/).
+2. Open the [AQJRO AAS Demo v1.0 repository](https://github.com/aqjro28-collab/AQJRO-AAS-Demo-v1.0).
+3. In GitHub Desktop, select **File → Clone Repository**.
+4. Open the **URL** tab.
+5. Paste the repository URL:
+
+   `https://github.com/aqjro28-collab/AQJRO-AAS-Demo-v1.0.git`
+
+6. Choose a local directory where you want to store the demo.
+7. Click **Clone** and wait until the download is complete.
+
+GitHub Desktop supports Git LFS and retrieves the actual large files referenced by the repository.
+
+After cloning, the complete demo package will be available in the selected local directory.
+
+**Important — Git LFS**
+
+The project uses Git Large File Storage (LFS) for USD assets, textures, and other binary resources.
+
+The automatically generated GitHub **Source code (ZIP)** and **Source code (tar.gz)** archives may contain Git LFS pointer files instead of the actual assets.
+
+For a complete download, use GitHub Desktop as described above.
+
+## 3. Demo Contents
 
 The demonstration includes a static assembly of the AQJRO Experimental Scientific Station and its associated production assets.
 
@@ -47,7 +76,7 @@ The package contains the components and dependencies required by the main assemb
 
 The demo represents a static production assembly. It is not a complete animated project or an interactive game.
 
-## 3. Verified Software Compatibility
+## 4. Verified Software Compatibility
 
 The demo has been tested in the following software environments:
 
@@ -61,11 +90,11 @@ All three environments were tested successfully. The assembly worked as expected
 
 These results apply to the tested configurations and do not constitute a guarantee of compatibility with every other software version or configuration.
 
-## 4. Getting Started
+## 5. Getting Started
 
 Before opening the demo:
 
-1. Extract the complete `AQJRO AAS Demo v1.0` package.
+1. Make sure the complete repository has been downloaded, including its Git LFS files.
 2. Preserve the original directory structure.
 3. Navigate to the `Experimental_Scientific_Station` directory.
 4. Locate `AQJRO_Station_Assembly_Demo_v1.0.usd`.
@@ -83,7 +112,7 @@ To display the intended production geometry in the application viewport, make su
 
 Do not use `Proxy` or `Default` as the active display representation when evaluating the intended production appearance of the assembly.
 
-### 4.1 Autodesk Maya
+### 5.1 Autodesk Maya
 
 The assembly must be loaded as a USD Stage.
 
@@ -99,7 +128,7 @@ Do not use the standard geometry import workflow. The assembly is designed to be
 
 **Rendering:** Autodesk Maya with Arnold is the primary intended production and rendering environment for this project.
 
-### 4.2 Unreal Engine
+### 5.2 Unreal Engine
 
 Unreal Engine requires its USD-related plugins to be enabled.
 
@@ -125,7 +154,7 @@ The assembly must be loaded and inspected through the USD Stage workflow rather 
 
 **Note:** Unreal Engine is included as a verified environment for loading and viewing the USD Stage. The primary production rendering environment of AQJRO remains Autodesk Maya with Arnold.
 
-## 5. Rendering and Display
+## 6. Rendering and Display
 
 The AQJRO production pipeline is primarily designed around **Arnold Renderer** in Autodesk Maya.
 
@@ -143,7 +172,7 @@ For the intended visual result, use the **Render** representation in both Maya a
 
 For production rendering, use **Arnold in Autodesk Maya**.
 
-## 6. Working with OpenUSD
+## 7. Working with OpenUSD
 
 The demo uses a modular USD composition approach.
 
@@ -159,7 +188,7 @@ The assembly is built around reusable components rather than a single monolithic
 
 When inspecting or modifying the project, preserve the existing USD composition relationships and relative asset paths.
 
-## 7. Portability
+## 8. Portability
 
 Portability is an important principle of the AAS production workflow.
 
@@ -175,7 +204,7 @@ For reliable operation:
 
 The demo should be treated as a complete, self-contained package rather than a collection of independent USD files.
 
-## 8. Scope and Limitations
+## 9. Scope and Limitations
 
 AAS Demo v1.0 is a demonstration release, not the complete AAS production standard or a commercial product.
 
@@ -185,7 +214,7 @@ The package does not represent the complete AQJRO PROJECT production environment
 
 Additional features and documentation may be developed separately.
 
-## 9. License and Usage
+## 10. License and Usage
 
 This release is provided as a non-commercial demonstration of the AQJRO Asset Standard and its production workflow.
 
@@ -195,7 +224,7 @@ Please refer to the accompanying `LICENSE` file for the applicable terms of use.
 
 Commercial use, licensing, or other permissions must be obtained from the rights holder.
 
-## 10. About AQJRO PROJECT
+## 11. About AQJRO PROJECT
 
 **AQJRO PROJECT** is an independent cinematic 3D universe and OpenUSD-based production ecosystem.
 
