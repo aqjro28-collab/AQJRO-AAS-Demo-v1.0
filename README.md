@@ -39,7 +39,7 @@ To download the complete AQJRO AAS Demo v1.0, including the actual USD assets, t
    `https://github.com/aqjro28-collab/AQJRO-AAS-Demo-v1.0.git`
 
 6. Choose a local directory where you want to store the demo.
-7. Click **Clone** and wait until the download is complete.
+7. Click Clone and wait until the repository and all Git LFS files have been downloaded.
 
 GitHub Desktop supports Git LFS and retrieves the actual large files referenced by the repository.
 
