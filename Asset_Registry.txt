@@ -1,0 +1,172 @@
+# AQJRO Asset Registry
+
+| Asset ID        | Asset Name          | Asset Type  | Status     | Version |
+|---              |---                  |---          |---         |      ---|
+| AQJRO_ENV_0001  | Singularity_Anchor  | ENV         | Production | 1.0     |
+| AQJRO_ENV_0002  | Frame_01            | ENV         | Production | 1.0     |
+| AQJRO_ENV_0003  | Panel_01            | ENV         | Production | 1.0     |
+| AQJRO_ENV_0004  | Field_Stabilizer    | ENV         | Production | 1.0     |
+| AQJRO_AST_0005  | Pole                | AST         | Production | 1.0     |
+| AQJRO_AST_0006  | Plasma              | AST         | Production | 1.0     |
+| AQJRO_AST_0007  | Block               | AST         | Production | 1.0     |
+| AQJRO_AST_0008  | Energy_Ring         | AST         | Production | 1.0     |
+| AQJRO_AST_0009  | Layer_Transit_System| AST         | Production | 1.0     | 
+| AQJRO_PRP_0010  | Cladding_Bracket    | PRP         | Production | 1.0     |
+| AQJRO_ENV_0011  | Station_framework   | ENV         | Production | 1.0     |
+| AQJRO_PRP_0012  | Zero                | ENV         | Production | 1.0     |
+| AQJRO_ENV_0013  | Hull_Panel_01       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0014  | Hull_Panel_02       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0015  | Hull_Panel_03       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0016  | Hull_Panel_04       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0017  | Hull_Panel_05       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0018  | Hull_Panel_06       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0019  | Hull_Panel_07       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0020  | Hull_Panel_08       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0021  | Hull_Panel_09       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0022  | Hull_Panel_10       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0023  | Hull_Panel_11       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0024  | Hull_Panel_12       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0025  | Hull_Panel_13       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0026  | Hull_Panel_14       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0027  | Hull_Panel_15       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0028  | Hull_Panel_16       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0029  | Hull_Panel_17       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0030  | Hull_Panel_18       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0031  | Hull_Panel_19       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0032  | Hull_Panel_20       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0033  | Hull_Panel_21       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0034  | Hull_Panel_22       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0035  | Hull_Panel_23       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0036  | Hull_Panel_24       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0037  | Hull_Panel_25       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0038  | Hull_Panel_26       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0039  | Hull_Panel_27       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0040  | Hull_Panel_28       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0041  | Hull_Panel_29       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0042  | Hull_Panel_30       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0043  | Hull_Panel_31       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0044  | Hull_Panel_32       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0045  | Hull_Panel_33       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0046  | Hull_Panel_34       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0047  | Hull_Panel_35       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0048  | Hull_Panel_36       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0049  | Hull_Panel_37       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0050  | Hull_Panel_38       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0051  | Hull_Panel_39       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0052  | Hull_Panel_40       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0053  | Hull_Panel_41       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0054  | Hull_Panel_42       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0055  | Hull_Panel_43       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0056  | Hull_Panel_44       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0057  | Hull_Panel_45       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0058  | Hull_Panel_46       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0059  | Hull_Panel_47       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0060  | Hull_Panel_48       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0061  | Hull_Panel_49       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0062  | Hull_Panel_50       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0063  | Hull_Panel_51       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0064  | Hull_Panel_52       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0065  | Hull_Panel_53       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0066  | Hull_Panel_54       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0067  | Hull_Panel_55       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0068  | Hull_Panel_56       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0069  | Hull_Panel_57       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0070  | Hull_Panel_58       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0071  | Hull_Panel_59       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0072  | Hull_Panel_60       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0073  | Hull_Panel_61       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0074  | Hull_Panel_62       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0075  | Hull_Panel_63       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0076  | Hull_Panel_64       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0077  | Hull_Panel_65       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0078  | Hull_Panel_66       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0079  | Hull_Panel_67       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0080  | Hull_Panel_68       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0081  | Hull_Panel_69       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0082  | Hull_Panel_70       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0083  | Hull_Panel_71       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0084  | Hull_Panel_72       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0085  | Hull_Panel_73       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0086  | Hull_Panel_74       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0087  | Hull_Panel_75       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0088  | Hull_Panel_76       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0089  | Hull_Panel_77       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0090  | Hull_Panel_78       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0091  | Hull_Panel_79       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0092  | Hull_Panel_80       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0093  | Hull_Panel_81       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0094  | Hull_Panel_82       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0095  | Hull_Panel_83       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0096  | Hull_Panel_84       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0097  | Hull_Panel_85       | ENV         | Production | 1.0     |
+| AQJRO_PRP_0098  | Nameplate           | PRP         | Production | 1.0     |
+| AQJRO_AST_0099  | Station_Exterior_Cladding| AST    | Production | 1.0     |
+| AQJRO_AST_0100##|                     | AST    | Production | 1.0     |
+| AQJRO_ENV_0101  | Thermal_Radiator_Cover| ENV         | Production | 1.0     |
+| AQJRO_ENV_0102  | Illumination_Frame  | ENV         | Production | 1.0     |
+| AQJRO_ENV_0103  | Railing_Post        | ENV         | Production | 1.0     |
+| AQJRO_ENV_0104  | Handrails           | ENV         | Production | 1.0     |
+| AQJRO_ENV_0105  | Starry_Sky          | ENV         | Production | 1.0     |
+| AQJRO_ENV_0106  | Sunny_Sky           | ENV         | Production | 1.0     |
+| AQJRO_ENV_0107  | Overcast_Sky        | ENV         | Production | 1.0     |
+| AQJRO_ENV_0108  | Sunset_Sky          | ENV         | Production | 1.0     |
+| AQJRO_ENV_0109  | World               | ENV         | Production | 1.0     |
+| AQJRO_ENV_0110  | Deck_Light_01       | ENV         | Production | 1.0     |
+| AQJRO_ENV_0111  | Deck_Frame_Rear_01  | ENV         | Production | 1.0     |
+| AQJRO_ENV_0112  | Deck_Stair_Step_01  | ENV         | Production | 1.0     |
+| AQJRO_ENV_0113  | Deck_Frame_Center_Stairwell_01| ENV| Production | 1.0    |
+| AQJRO_ENV_0114  | Deck_Frame_Center_Lift_Ring_01| ENV| Production | 1.0    |
+| AQJRO_ENV_0115  | Deck_Frame_Center_01          | ENV| Production | 1.0    |
+| AQJRO_ENV_0116  | Deck_Front_Frame_01           | ENV| Production | 1.0    |
+| AQJRO_ENV_0117  | Deck_Frame_01       | ENV          | Production | 1.0    |
+| AQJRO_ENV_0118  | Deck_Frame_Center_Extended_01 | ENV| Production | 1.0    |
+| AQJRO_ENV_0119  | Deck_Embedded_Indicator_01    | ENV| Production | 1.0    |
+| AQJRO_ENV_0120  | Deck_Frame_Connector_01       | ENV| Production | 1.0    |
+| AQJRO_ENV_0121  | Deck_Exterior_Light_Frame_01  | ENV| Production | 1.0    |
+| AQJRO_ENV_0122  | Deck_Spotlight_Frame_01       | ENV| Production | 1.0    |
+| AQJRO_ENV_0123  | Main_Flight_Deck              | AST| Production | 1.0    |
+
+
+
+
+
+
+
+
+
+
+
+AQJRO AAS Demo v1.0/
+├── Characters/
+├── Environments/
+├── Experimental_Scientific_Station/
+├── Materials_Library/
+├── Vehicles/
+
+
+
+
+
+Component_Name/
+├── Materials/
+│   └── Component_Material.usd
+├── Publish/
+│   ├── Component_Name.usd
+│   ├── Component_Name_geo.usd
+│   ├── Component_Name_look.usd
+│   └── [дополнительные USD-слои]
+├── Textures/
+└── Work/
+    └── Component_Name.ma
+
+
+
+
+
+
+Assembly_Name/
+├── Assembly_Name.usd
+└── Assembly_Name_AST.usd
+
+
+
